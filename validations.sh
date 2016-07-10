@@ -37,7 +37,7 @@ require_number(){
     val=$1
     message=$2
     code=$3
-    is_numero $val
+    is_number $val
     if [ $? -eq 0 ]
     then
         echo

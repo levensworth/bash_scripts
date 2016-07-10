@@ -1,0 +1,4 @@
+This is a little script repo i'm making with all the scripts
+i made for collage. Feel free to use them
+the validation script is used through the entire repo so please
+don't take the rest without it!
